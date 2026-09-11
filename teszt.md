@@ -1,5 +1,5 @@
 
-$\sqrt{x+4}=3$ $\quad$ Kikötés:<br>$x+4 \ge 0$<br>$x \ge -4$
+$\sqrt{x+4}=3$ $\qquad$ Kikötés: $x+4 \ge 0 \quad x \ge -4$
 
 $\sqrt{x+4}=3 \quad /()^{2}$
 
