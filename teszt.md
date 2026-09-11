@@ -9,6 +9,6 @@ $$
 
 $$
 \begin{aligned}
-\big| ()^2 \quad && x - 5 \ge 0
+\quad ()^2 \quad && x - 5 \ge 0
 \end{aligned}
 $$
