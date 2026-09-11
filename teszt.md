@@ -5,7 +5,7 @@ $\sqrt{x+4}=3 \quad /()^{2}$
 
 $x+4 = 9 \quad /-4$
 
-$x = 5 \quad Ellenőrzés: \quad \sqrt{5+4} = \sqrt{9} = 3$
+$x = 5 \qquad Ellenőrzés: \quad \sqrt{5+4} = \sqrt{9} = 3$
 
 $$
 \begin{aligned}
