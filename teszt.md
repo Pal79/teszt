@@ -7,4 +7,8 @@ x = 5 \quad Ellenőrzés: \quad \sqrt{5+4} = \sqrt{9} = 3
 \end{aligned}
 $$
 
-$\big| ()^2 \quad && x - 5 \ge 0$
+$$
+\begin{aligned}
+\big| ()^2 \quad && x - 5 \ge 0
+\end{aligned}
+$$
