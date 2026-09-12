@@ -1,5 +1,5 @@
 
-$\text{Saját}_{magasság} = 40m$
+$\text{Saját}_{\text{magasság}} = 40m$
 
 $\sqrt{x+4}=3 \qquad \text{Kikötés: } \quad x+4 \ge 0 \quad \text{ és } \quad x \ge -4$
 
