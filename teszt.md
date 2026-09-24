@@ -1,4 +1,19 @@
 
+
+$$
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+\text{1. sor} & 9\text{ cm} & 8\text{ cm} & 9.79\text{ cm} & 59.77^\circ & 50.23^\circ & 70^\circ \\
+\text{2. sor} & 17.12\text{ m} & 12.4\text{ m} & 8.3\text{ m} & 110^\circ & 43^\circ & 27^\circ \\
+\text{3. sor} & 18\text{ dm} & 17.7\text{ dm} & 120\text{ cm} & 71.55^\circ & 69^\circ & 39.45^\circ \\
+\hline
+\end{array}
+$$
+
+
+
 $\leftrightarrow$
 
 $\text{Saját}_{\text{magasság}} = 40m$
