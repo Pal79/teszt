@@ -2,6 +2,16 @@
 
 $$\begin{array}{|c|c|c|c|c|c|c|}
 \hline
+& a & b & c & \alpha & \beta & \gamma \\
+\hline
+\text{1. sor} & 9\text{ cm} & 8\text{ cm} & & & & 70^\circ \\[4pt]
+\text{2. sor} & & 12.4\text{ m} & 8.3\text{ m} & 110^\circ & & \\[4pt]
+\text{3. sor} & 18\text{ dm} & & 120\text{ cm} & & 69^\circ & \\
+\hline
+\end{array}$$
+
+$$\begin{array}{|c|c|c|c|c|c|c|}
+\hline
 & a & b & c & \alpha & \beta & \gamma \\[6pt]
 \hline
 \text{1. sor} & 9\text{ cm} & 8\text{ cm} & 9.79\text{ cm} & 59.77^\circ & 50.23^\circ & 70^\circ \\[6pt]
