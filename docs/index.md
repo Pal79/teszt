@@ -35,7 +35,7 @@ $$
 
 ### 1.sor
 $$
-\begin{array}{|c|c|}
+\begin{array}{|l|l|}
 a = 8\text{ cm} & \alpha = 35^{\circ} \\
 b = \text{?} & \beta = \text{?} \\
 c = 11\text{ cm} & \gamma = \text{?}
