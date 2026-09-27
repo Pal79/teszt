@@ -60,7 +60,7 @@ $$
 a &= 12cm &&|&& \alpha = ? \\
 b &= ? &&|&& \beta = 40^{\circ} \\
 c &= ? &&|&& \gamma = 75^{\circ} \\[1em]
-\alpha = 180^{\circ} - (40^{\circ} + 75^{\circ}) = 65^{\circ} \\[1em]
+\alpha &= 180^{\circ} - (40^{\circ} + 75^{\circ}) = 65^{\circ} \\[1em]
 b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin40^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.6428}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm \\[1em]
 c &= \frac{\sin\gamma}{\sin\alpha} \cdot a = \frac{\sin75^{\circ}}{\sin65^{\circ}} \cdot 12 = \frac{0.9659}{0.9063} \cdot 12 = 1.0658 \cdot 12 = 12.79cm
 \end{aligned}
@@ -81,6 +81,7 @@ $$
 
 ## 2.feladat
 $$
+\begin{gathered}
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & \text{a} & \text{b} & \text{c} & \alpha & \beta & \gamma \\
@@ -96,7 +97,20 @@ $$
 \text{5. sor} & 0.8\text{ m} & 50\text{ cm} & & & & 32^{\circ} \\
 \hline
 \end{array}
+\begin{aligned}
+\\[2em]
+1.\text{sor}\\[1em]
+a &= 8cm && \| && \alpha = 35^{\circ} \\
+b &= ? && \| && \beta = ? \\
+c &= 11cm && \| && \gamma = ? \\[1em]
+\sin\gamma &= \frac{\sin\alpha}{a} \cdot c = \frac{\sin35^{\circ}}{8} \cdot 11 = 0.0717 \cdot 11 = 0.7887 \\[.5em]
+\gamma &= \sin^{-1}(0.7887) = 52.1^{\circ} \\[1em]
+\beta &= 180^{\circ} - (35^{\circ} + 52.1^{\circ}) = 92.9^{\circ} \\[1em]
+b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin92.9^{\circ}}{\sin35^{\circ}} \cdot 8 = 1.7412 \cdot 8 = 13.93cm
+\end{aligned}
+\end{gathered}
 $$
+
 ### 1.sor
 $$
 \begin{aligned}
