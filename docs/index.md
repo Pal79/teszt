@@ -98,9 +98,9 @@ $$
 \end{array}
 $$
 
+### 1.sor
 $$
 \begin{aligned}
-1.\text{sor}\\[1em]
 a &= 8cm &&|&& \alpha = 35^{\circ} \\
 b &= ? &&|&& \beta = ? \\
 c &= 11cm &&|&& \gamma = ? \\[1em]
