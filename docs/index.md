@@ -81,7 +81,6 @@ $$
 
 ## 2.feladat
 $$
-\begin{gathered}
 \begin{array}{|c|c|c|c|c|c|c|}
 \hline
 & \text{a} & \text{b} & \text{c} & \alpha & \beta & \gamma \\
@@ -97,8 +96,10 @@ $$
 \text{5. sor} & 0.8\text{ m} & 50\text{ cm} & & & & 32^{\circ} \\
 \hline
 \end{array}
+$$
+
+$$
 \begin{aligned}
-\\[2em]
 1.\text{sor}\\[1em]
 a &= 8cm &&|&& \alpha = 35^{\circ} \\
 b &= ? &&|&& \beta = ? \\
@@ -107,24 +108,6 @@ c &= 11cm &&|&& \gamma = ? \\[1em]
 \gamma &= \sin^{-1}(0.7887) = 52.1^{\circ} \\[1em]
 \beta &= 180^{\circ} - (35^{\circ} + 52.1^{\circ}) = 92.9^{\circ} \\[1em]
 b &= \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin92.9^{\circ}}{\sin35^{\circ}} \cdot 8 = 1.7412 \cdot 8 = 13.93cm
-\end{aligned}
-\end{gathered}
-$$
-
-### 1.sor
-$$
-\begin{aligned}
-a = 8cm && \| && \alpha = 35^{\circ} \\
-b = ? && \| && \beta = ? \\
-c = 11cm && \| && \gamma = ? \\
-\\\\
-\sin\gamma = \frac{\sin\alpha}{a} \cdot c = \frac{\sin35^{\circ}}{8} \cdot 11 = 0.0717 \cdot 11 = 0.7887 \\
-\\
-\gamma = \sin^{-1}(0.7887) = 52.1^{\circ} \\
-\\\\
-\beta = 180^{\circ} - (35^{\circ} + 52.1^{\circ}) = 92.9^{\circ} \\
-\\\\
-b = \frac{\sin\beta}{\sin\alpha} \cdot a = \frac{\sin92.9^{\circ}}{\sin35^{\circ}} \cdot 8 = 1.7412 \cdot 8 = 13.93cm
 \end{aligned}
 $$
 
