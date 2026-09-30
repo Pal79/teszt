@@ -55,6 +55,6 @@ c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cd
 c &= \sqrt{175} = 13.23 \\
 \frac{\sin}{a} &= \frac{\sin\gamma}{c} = \frac{\sin\alpha}{10} = \frac{\sin60^{\circ}}{13.23} \quad / \cdot 10 \\
 \sin\alpha &= \frac{10 \cdot \sin60^{\circ}}{13.23} = \frac{10 \cdot 0.866}{13.23} = \frac{8.66}{13.23} = 0.65 \\
-\alpha = \sin^{-1}(0.65) = 40.54^{\circ}
+\alpha &= \sin^{-1}(0.65) = 40.54^{\circ}
 \end{aligned}
 $$
