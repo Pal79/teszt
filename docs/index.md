@@ -49,7 +49,8 @@ a & b & c & \alpha & \beta & \gamma \\
 $$
 $$
 \begin{aligned}
-c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cdot 15 \cdot \cos60^{\circ} = 
+c^{2} &= a^{2} + b^{2} - 2ab \cdot \cos\gamma = 10^{2} + 15^{2} - 2 \cdot 10 \cdot 15 \cdot \cos60^{\circ} = 325 - 300 \cdot 0.5 = 325 - 150 = 175 \\
+c &= \sqrt{175} = 13.23 \\
 \frac{\sin\alpha}{10} &= \frac{\sin60^{\circ}}{13.23}
 \end{aligned}
 $$
