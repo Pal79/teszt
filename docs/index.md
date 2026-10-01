@@ -10,5 +10,5 @@
 
 ---
 
-\varparallelogram
+$\varparallelogram$
 
