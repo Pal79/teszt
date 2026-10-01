@@ -62,9 +62,7 @@ $$
 ---
 
 ## Háromszög Terület
-$$
-T &= \frac{a \cdot b \cdot \sin\gamma}{2}
-$$
+$T = \frac{a \cdot b \cdot \sin\gamma}{2}$
 
 ### feladat
 $$
