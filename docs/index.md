@@ -78,7 +78,7 @@ $$
 \begin{aligned}
 \\[1em]
 a^{2} &= b^{2} + c^{2} - 2bc \cdot \cos\alpha = 5^{2} + 6^{2} - 2 \cdot 5 \cdot 6 \cdot \cos70^{\circ} = 61 - 60 \cdot 0.342 = 61 - 20.52 = 40.48 \\
-a &= \sqrt{40.48} &= 6.36 \\[1em]
+a &= \sqrt{40.48} = 6.36 \\[1em]
 \frac{\sin\beta}{b} &= \frac{\sin\alpha}{a} = \frac{\sin\beta}{5} = \frac{\sin70^{\circ}}{6.36} \quad / \cdot 5 \\
 \sin\beta &= \frac{5 \cdot \sin70^{\circ}}{6.36} = \frac{4.699}{6.36} = 0.74 \\
 \beta &= \sin^{-1}(0.74) = 47.73^{\circ} \\[1em]
