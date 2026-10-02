@@ -11,19 +11,12 @@
 ---
 
 $$
-x^{2} + x - 6 \\[1em]
-$$
-$$
-\begin{array}{|l|}
-a = 1 \\
-b = 1 \\
-c = -6
-\end{array}
-$$
-$$
 \begin{aligned}
-\\[1em]
-x_{1,2} &= \frac{-1 \pm \sqrt{1^{2} - 4 \cdot (-6)}}{2} = \frac{-1 \pm \sqrt{25}}{2} = \frac{-1 \pm 5}{2} = \\
+x^{2} + x - 6 \\[2em]
+a &= 1 \\
+b &= 1 \\
+c &= -6 \\[2em]
+x_{1,2} &= \frac{-1 \pm \sqrt{1^{2} - 4 \cdot (-6)}}{2} = \frac{-1 \pm \sqrt{25}}{2} = \frac{-1 \pm 5}{2} = \\[1em]
 x_{1} &= \frac{4}{2} = 2 \\
 x_{2} &= \frac{6}{2} = -3
 \end{aligned}
