@@ -11,6 +11,10 @@
 ---
 
 $$
+\begin{array}{\|l\|l\|l\|} \hline \text{Adott} & \text{Keresett} & \text{Melyik tétel?} \\ \hline \text{Derékszög + szög + oldal} & \text{Másik oldal} & \sin \vert{} \cos \vert{} \tan \vert{} \cot \\ \hline \text{Derékszög + két oldal} & \text{Szög} & \tan^{-1} \vert{} \sin^{-1} \vert{} \cos^{-1} \\ \hline \text{Két oldal + közbezárt szög} & \text{Harmadik oldal} & \text{Koszinusztétel} \\ \hline \text{Három oldal} & \text{Bármelyik szög} & \text{Koszinusztétel (szögre rendezve)} \\ \hline \text{Két szög + egy oldal} & \text{Másik oldal} & \text{Szinusztétel} \\ \hline \text{Egy oldal + két szög} & \text{Harmadik szög} & 180^{\circ} - (\alpha + \beta) \\ \hline \text{Két oldal + nem közbezárt szög} & \text{Oldal vagy szög} & \text{Szinusztétel} \\ \hline \end{array}
+$$
+
+$$
 \begin{aligned}
 x^{2} + x - 6 \\[2em]
 a &= 1 \\
