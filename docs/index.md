@@ -12,7 +12,7 @@
 
 $$
 \begin{array}{|c|}
-\text{\href{./link.md}} \\
+\text{\href{./link.md}{Link}} \\
 \end{array}
 $$
 
