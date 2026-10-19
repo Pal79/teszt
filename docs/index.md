@@ -11,6 +11,18 @@
 ---
 
 $$
+\begin{array}{|l|l|}
+\hline
+\text{:blush: :blush: }\text{I}\textbf{ love} & \textbf{shopping.} \\
+\text{:blush: }\text{I}\textbf{ like} & \textbf{going}\text{ to the cinema.} \\
+\text{:confused: }\text{I}\textbf{ don't like} & \textbf{doing}\text{ housework.} \\
+\text{:confused: :confused: }\text{I}\textbf{ hate} & \textbf{driveing}\text{ at night.} \\
+\hline
+\end{array}
+$$
+
+
+$$
 \begin{array}{|c|}
 \text{\href{./link.md}{Link}} \\
 \end{array}
